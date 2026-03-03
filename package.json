@@ -1,9 +1,10 @@
 {
-  "name": "site-cli",
+  "name": "cli-code",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "bin": {
+    "cli-code": "./bin/cli.js",
     "site-cli": "./bin/cli.js"
   },
   "scripts": {
